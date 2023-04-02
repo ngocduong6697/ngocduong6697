@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ngocduong6697
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning development with blockchain
-- 💞️ I’m looking to collaborate on Solana blockchain and how to coding with it
+- 💞️ I’m looking to research on Solana blockchain and how to coding with it
